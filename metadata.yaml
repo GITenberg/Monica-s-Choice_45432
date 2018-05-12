@@ -1,0 +1,26 @@
+_repo: Monica-s-Choice_45432
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45432-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Berry, Flora E.
+    gutenberg_agent_id: '43282'
+    url: http://www.gutenberg.org/2009/agents/43282
+description: ''
+gutenberg_issued: '2014-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+title: Monica's Choice
+url: http://www.gutenberg.org/ebooks/45432
